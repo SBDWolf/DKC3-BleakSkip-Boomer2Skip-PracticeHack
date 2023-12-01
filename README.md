@@ -1,2 +1,9 @@
-# DKC3-BleakSkip-Boomer2Skip-PracticeHack
-A hack of Donkey Kong Country 3 to practice Bleak Skip and Boomer 2 Skip
+features
+- frame counter on the top right of the screen, in "m ss ff" (minutes, seconds, frames). ignores loading time during transitions
+- pausing the game freezes the timer display
+- lag frame counter on the top left of the screen
+- infinite lives
+
+you're probably gonna need a completed save file for now, sorry
+
+to be assembled using [Asar](https://github.com/RPGHacker/asar), see the Makefile.
